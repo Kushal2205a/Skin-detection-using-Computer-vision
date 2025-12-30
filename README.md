@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%E2%89%A52.0-orange.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/github/license/Kushal2205a/Skin-detection-using-Computer-vision)](./LICENSE)
 
 Trained a ResNet50-based classifier on skin image classes and evaluate robustness across different brightness levels.
 
